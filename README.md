@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">About</h3>
-■ Multidimensional professional with 12+ years of experience in Java, Java EE, Spring, Spring Boot, Cloud and Databases, utilizing Clean Code and best practices.
+■ Multidimensional professional with 13+ years of experience in Java, Java EE, Spring, Spring Boot, Cloud and Databases, utilizing Clean Code and best practices.
 
 ■ Extensive experience with Multi-faceted Enterprise Grade Software development and Modern design patterns and design principles including TDD, CI/CD, Event Driven Development, Service-oriented and Microservices Architecture.
 
