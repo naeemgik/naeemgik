@@ -11,6 +11,7 @@
 <h3 align="left">About</h3>
 ■ 14+ years of experience designing and delivering scalable, secure and efficient systems, with expertise in enterprise architecture, cloud-native solutions and modern design principles.
 
+
 ■ Proven success in driving digital transformation and modernization across diverse sectors, including e-Commerce & Retail, Identity Solutions, EdTech, Health Care and Logistics.
 
 ■ Deep expertise in implementing modern software design patterns and architectural principles, including TDD, CI/CD, Event-Driven Development, SOA and Microservices Architecture.
