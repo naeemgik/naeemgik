@@ -9,26 +9,31 @@
 </p>
 
 <h3 align="left">About</h3>
-■ Multidimensional professional with 13+ years of experience in Java, Java EE, Spring, Spring Boot, Cloud and Databases, utilizing Clean Code and best practices.
+■ 14+ years of experience designing and delivering scalable, secure and efficient systems, with expertise in enterprise architecture, cloud-native solutions and modern design principles.
 
-■ Extensive experience with Multi-faceted Enterprise Grade Software development and Modern design patterns and design principles including TDD, CI/CD, Event Driven Development, Service-oriented and Microservices Architecture.
+■ Proven success in driving digital transformation and modernization across diverse sectors, including e-Commerce & Retail, Identity Solutions, EdTech, Health Care and Logistics.
 
-■ Experience in a wide variety of roles such as being a Senior Java Engineer, Tech Lead, Integration Specialist, Enterprise Architect, Web Services & Microservices Development, Concurrent Programming and Cryptography.
+■ Deep expertise in implementing modern software design patterns and architectural principles, including TDD, CI/CD, Event-Driven Development, SOA and Microservices Architecture.
+
+■ Proficient in advanced architectural styles like Layered Architecture, Hexagonal Architecture and Domain-Driven Design (DDD) to build robust, scalable and maintainable software for business needs.
+
+■ Proficient in Agile/Scrum methodologies, translating complex business requirements into technical solutions and providing technical leadership, stakeholder management and team mentorship to drive successful project delivery.
 
 <h3 align="left">☛ 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒌𝒊𝒍𝒍𝒔:</h3>
-■ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java 17<br>
-■ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐏𝐚𝐫𝐚𝐝𝐢𝐠𝐦: OOP, Functional Programming, Reactive Programming<br>
-■ 𝐉𝐚𝐤𝐚𝐫𝐭𝐚 𝐄𝐄: EE Web Component, EE Web Services, EE Persistence layer<br>
-■ 𝐒𝐩𝐫𝐢𝐧𝐠: Spring Core, Spring MVC, Spring Boot, Spring WebFlux, Spring Data, Spring Security, Spring AOP, Spring Batch, Spring Cloud, Spring AMQP<br>
-■ 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬: Spring Cloud Gateway, Spring Cloud Conﬁg, Eureka, Kubernetes Service Discovery, Resilience4j, Sleuth, Zipkin, Bucket4j, Keycloak<br>
-■ 𝐎𝐑𝐌/𝐏𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐞 𝐋𝐚𝐲𝐞𝐫: Hibernate 5.x, JPA 2.x, MyBatis, JDBC, Apache DBCP, Oracle UCP<br>
-■ 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: JAX-WS/SOAP, JAX-RS/REST, gRPC, GraphQL, Feign REST Client, OkHttp, WebClient, JAXB, RESTEasy, Swagger, Jersey<br>
-■ 𝐄𝐯𝐞𝐧𝐭 𝐃𝐫𝐢𝐯𝐞𝐧: JMS, AMQP, RabbitMQ, Kafka, Apache ActiveMQ<br>
-■ 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐒𝐭𝐚𝐜𝐤: JSP 2.0, JSF 2.0, RichFaces, PrimeFaces, Bootstrap, Struts 2, JavaScript, jQuery, HTML5<br>
-■ 𝐃𝐁𝐌𝐒: Oracle 12c, PostgreSQL, IBM DB2, MySQL, Microsoft SQL Server, Teradata, MongoDB, Redis<br>
-■ 𝐔𝐧𝐢𝐭 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: JUnit5, Mockito, MockMVC, PowerMock, Spring Boot Test<br>
-■ 𝐂𝐥𝐨𝐮𝐝: Google Cloud, Amazon Web Services, Oracle Fusion, Azure, AWS EC2, AWS SNS & SQS, S3 Bucket, AWS Lambda, ECS<br>
-■ 𝐃𝐞𝐯𝐎𝐩𝐬: Git, GitLab, CI/CD, Maven, NPM, Docker, Kubernetes, SonarQube<br>
-■ 𝐉𝐚𝐯𝐚 𝐂𝐫𝐲𝐩𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲: AES (128, 192, 256), 3DES and RSA<br><br>
+■ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java 17, 21
+■ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐏𝐚𝐫𝐚𝐝𝐢𝐠𝐦: OOP, Functional Programming, Reactive Programming
+■ 𝐒𝐩𝐫𝐢𝐧𝐠: Spring Boot, Spring Core, Spring MVC, Spring WebFlux, Spring Data, Spring Security, Spring Batch, Spring Cloud, Spring GraphQL, Spring Quartz, Spring AI
+■ 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬: Spring Cloud Gateway, Spring Cloud Conﬁg, Eureka, Kubernetes Service Discovery, Resilience4j, Sleuth, Zipkin, Bucket4j, Keycloak
+■ 𝐄𝐯𝐞𝐧𝐭 𝐃𝐫𝐢𝐯𝐞𝐧: Apache Kafka, Confluent Kafka, RabbitMQ, ActiveMQ, ZeroMQ
+■ 𝐃𝐁𝐌𝐒: Oracle 19c, PostgreSQL, MySQL, Microsoft SQL Server, Teradata, MongoDB, SQLite, Redis
+■ 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠: Apache Spark, Apache Hadoop, Apache Airflow
+■ 𝐎𝐑𝐌 & 𝐏𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐞: Hibernate 5.x, JPA 2.x, MyBatis, JDBC
+■ 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: REST, SOAP, gRPC, GraphQL, Feign REST Client, WebClient, OkHttp
+■ 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐒𝐭𝐚𝐜𝐤: JSP 2.0, JSF 2.0, RichFaces, PrimeFaces, Struts 2, JavaScript, jQuery, HTML5
+■ 𝐔𝐧𝐢𝐭 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: JUnit5, Mockito, MockMVC, PowerMock, Spring Boot Test
+■ 𝐂𝐥𝐨𝐮𝐝: Google Cloud, Amazon Web Services, Azure, AWS SNS & SQS, S3 Bucket, AWS Lambda
+■ 𝐃𝐞𝐯𝐎𝐩𝐬: Git, GitLab, CI/CD, Maven, NPM, Docker, Kubernetes, SonarQube
+■ 𝐉𝐚𝐯𝐚 𝐂𝐫𝐲𝐩𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲: PKI, AES, 3DES, RSA, TPM, HSM
+■ 𝐌𝐢𝐬𝐜𝐞𝐥𝐥𝐚𝐧𝐞𝐨𝐮𝐬: Elasticsearch and Solr
 
 ✍ naeemgik@gmail.com
