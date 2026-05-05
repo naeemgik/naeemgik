@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">About</h3>
-■ 14+ years of experience designing and delivering scalable, secure and efficient systems, with expertise in enterprise architecture, cloud-native solutions and modern design principles.</br>
+■ 15+ years of experience designing and delivering scalable, secure and efficient systems, with expertise in enterprise architecture, cloud-native solutions and modern design principles.</br>
 
 ■ Proven success in driving digital transformation and modernization across diverse sectors, including e-Commerce & Retail, Identity Solutions, EdTech, Health Care and Logistics.
 
@@ -24,6 +24,8 @@
 ■ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐏𝐚𝐫𝐚𝐝𝐢𝐠𝐦: OOP, Functional Programming, Reactive Programming</br>
 ■ 𝐒𝐩𝐫𝐢𝐧𝐠: Spring Boot, Spring Core, Spring MVC, Spring WebFlux, Spring Data, Spring Security, Spring Batch, Spring Cloud, Spring GraphQL, Spring Quartz, Spring AI</br>
 ■ 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬: Spring Cloud Gateway, Spring Cloud Conﬁg, Eureka, Kubernetes Service Discovery, Resilience4j, Sleuth, Zipkin, Bucket4j, Keycloak</br>
+■ 𝐂𝐥𝐨𝐮𝐝: Google Cloud, Amazon Web Services, Azure, AWS SNS & SQS, S3 Bucket, AWS Lambda</br>
+■	AI: Generative & Agentic AI, LLM Integration, RAG Pipelines, LangChain4j, Vector Databases, Prompt Engineering, Ollama</br>
 ■ 𝐄𝐯𝐞𝐧𝐭 𝐃𝐫𝐢𝐯𝐞𝐧: Apache Kafka, Confluent Kafka, RabbitMQ, ActiveMQ, ZeroMQ</br>
 ■ 𝐃𝐁𝐌𝐒: Oracle 19c, PostgreSQL, MySQL, Microsoft SQL Server, Teradata, MongoDB, SQLite, Redis</br>
 ■ 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠: Apache Spark, Apache Hadoop, Apache Airflow</br>
@@ -31,7 +33,6 @@
 ■ 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: REST, SOAP, gRPC, GraphQL, Feign REST Client, WebClient, OkHttp</br>
 ■ 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐒𝐭𝐚𝐜𝐤: JSP 2.0, JSF 2.0, RichFaces, PrimeFaces, Struts 2, JavaScript, jQuery, HTML5</br>
 ■ 𝐔𝐧𝐢𝐭 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: JUnit5, Mockito, MockMVC, PowerMock, Spring Boot Test</br>
-■ 𝐂𝐥𝐨𝐮𝐝: Google Cloud, Amazon Web Services, Azure, AWS SNS & SQS, S3 Bucket, AWS Lambda</br>
 ■ 𝐃𝐞𝐯𝐎𝐩𝐬: Git, GitLab, CI/CD, Maven, NPM, Docker, Kubernetes, SonarQube</br>
 ■ 𝐉𝐚𝐯𝐚 𝐂𝐫𝐲𝐩𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲: PKI, AES, 3DES, RSA, TPM, HSM</br>
 ■ 𝐌𝐢𝐬𝐜𝐞𝐥𝐥𝐚𝐧𝐞𝐨𝐮𝐬: Elasticsearch and Solr</br>
