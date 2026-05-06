@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Shah</h1>
-<h3 align="center">Solution Architect | Senior Backend Java Engineer</h3>
+<h3 align="center">Solutions Architect | Senior Backend Java Engineer</h3>
 
 - 📫 How to reach me **naeemgik@gmail.com**
 
